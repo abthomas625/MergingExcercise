@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Abilena\\source\\repos\\MergingMainRepo\\MergingMainRepo\\MergingMainRepo.csproj": {}
+    "C:\\Users\\Abilena\\source\\repos\\MergingBranchRepo\\MergingExcercise\\MergingMainRepo\\MergingMainRepo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Abilena\\source\\repos\\MergingMainRepo\\MergingMainRepo\\MergingMainRepo.csproj": {
+    "C:\\Users\\Abilena\\source\\repos\\MergingBranchRepo\\MergingExcercise\\MergingMainRepo\\MergingMainRepo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Abilena\\source\\repos\\MergingMainRepo\\MergingMainRepo\\MergingMainRepo.csproj",
+        "projectUniqueName": "C:\\Users\\Abilena\\source\\repos\\MergingBranchRepo\\MergingExcercise\\MergingMainRepo\\MergingMainRepo.csproj",
         "projectName": "MergingMainRepo",
-        "projectPath": "C:\\Users\\Abilena\\source\\repos\\MergingMainRepo\\MergingMainRepo\\MergingMainRepo.csproj",
+        "projectPath": "C:\\Users\\Abilena\\source\\repos\\MergingBranchRepo\\MergingExcercise\\MergingMainRepo\\MergingMainRepo.csproj",
         "packagesPath": "C:\\Users\\Abilena\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Abilena\\source\\repos\\MergingMainRepo\\MergingMainRepo\\obj\\",
+        "outputPath": "C:\\Users\\Abilena\\source\\repos\\MergingBranchRepo\\MergingExcercise\\MergingMainRepo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
