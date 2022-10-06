@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, my name is Abilena. I really enjoy coffee :)");
+            Console.WriteLine("Hello, my name is Ethan, and I like tea.");
         }
     }
 }
